@@ -10,3 +10,4 @@ Me trying to prove basic theorems! I'm following the Software foundations book a
 * plus_id_exercise.v
 * mult_n_1.v
 * plus_1_neq_0.v
+* negb_involutive.v
