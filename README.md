@@ -15,3 +15,4 @@ Me trying to prove basic theorems! I'm following the Software foundations book a
 * andb_true_elim_exercise.v
 * identity_fn_applied_twice.v
 * negation_fn_applied_twice.v
+* andb_eq_orb.v
