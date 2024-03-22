@@ -13,3 +13,5 @@ Me trying to prove basic theorems! I'm following the Software foundations book a
 * negb_involutive.v
 * andb_cummulative.v
 * andb_true_elim_exercise.v
+* identity_fn_applied_twice.v
+* negation_fn_applied_twice.v
